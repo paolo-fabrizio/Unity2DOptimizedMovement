@@ -437,7 +437,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: -0.129}
   serializedVersion: 2
-  m_Radius: 0.11
+  m_Radius: 0.104
 --- !u!114 &1314673548
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -455,7 +455,7 @@ MonoBehaviour:
     m_Bits: 8
   _movementAcceleration: 40
   _maxMoveSpeed: 5.5
-  _groundLinearDrag: 4
+  _groundLinearDrag: 7
   _jumpForce: 12
   _airLinearDrag: 5
   _fallMultiplier: 5.5

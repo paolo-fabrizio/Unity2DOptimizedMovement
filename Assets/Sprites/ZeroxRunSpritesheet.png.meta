@@ -1,0 +1,4788 @@
+fileFormatVersion: 2
+guid: 9640e7f06de78dc47a895ac6b91bcaf0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3520385009877424089
+    second: ZeroxRunSpritesheet_0
+  - first:
+      213: -2631714907809316331
+    second: ZeroxRunSpritesheet_1
+  - first:
+      213: -5027154382972946023
+    second: ZeroxRunSpritesheet_2
+  - first:
+      213: -5966300650699001437
+    second: ZeroxRunSpritesheet_3
+  - first:
+      213: 4534094481617852757
+    second: ZeroxRunSpritesheet_4
+  - first:
+      213: -7223392753638169382
+    second: ZeroxRunSpritesheet_5
+  - first:
+      213: 3464917884758913008
+    second: ZeroxRunSpritesheet_6
+  - first:
+      213: -2005436978772313711
+    second: ZeroxRunSpritesheet_7
+  - first:
+      213: 429978377710200934
+    second: ZeroxRunSpritesheet_8
+  - first:
+      213: 7336788318706921482
+    second: ZeroxRunSpritesheet_9
+  - first:
+      213: -4816753656766101873
+    second: ZeroxRunSpritesheet_10
+  - first:
+      213: -4173903636085148965
+    second: ZeroxRunSpritesheet_11
+  - first:
+      213: 6294899904249079652
+    second: ZeroxRunSpritesheet_12
+  - first:
+      213: -5692474619855470884
+    second: ZeroxRunSpritesheet_13
+  - first:
+      213: -5147414595829577480
+    second: ZeroxRunSpritesheet_14
+  - first:
+      213: -5199164367159623461
+    second: ZeroxRunSpritesheet_15
+  - first:
+      213: 8432665726000769495
+    second: ZeroxRunSpritesheet_16
+  - first:
+      213: -6331481875437015858
+    second: ZeroxRunSpritesheet_17
+  - first:
+      213: -5002297227980223847
+    second: ZeroxRunSpritesheet_18
+  - first:
+      213: 7139975180481517389
+    second: ZeroxRunSpritesheet_19
+  - first:
+      213: 6695975863640578568
+    second: ZeroxRunSpritesheet_20
+  - first:
+      213: -684371416348169677
+    second: ZeroxRunSpritesheet_21
+  - first:
+      213: -2523423495210189330
+    second: ZeroxRunSpritesheet_22
+  - first:
+      213: -912939294185574762
+    second: ZeroxRunSpritesheet_23
+  - first:
+      213: -4502043432817624999
+    second: ZeroxRunSpritesheet_24
+  - first:
+      213: 3060221835419088464
+    second: ZeroxRunSpritesheet_25
+  - first:
+      213: 1743165349597561148
+    second: ZeroxRunSpritesheet_26
+  - first:
+      213: 6236283665648360669
+    second: ZeroxRunSpritesheet_27
+  - first:
+      213: 4781725538223909183
+    second: ZeroxRunSpritesheet_28
+  - first:
+      213: -4896090561471914625
+    second: ZeroxRunSpritesheet_29
+  - first:
+      213: 260885683349986567
+    second: ZeroxRunSpritesheet_30
+  - first:
+      213: -7395845834899454676
+    second: ZeroxRunSpritesheet_31
+  - first:
+      213: -1633406292379704255
+    second: ZeroxRunSpritesheet_32
+  - first:
+      213: -7310215009610987087
+    second: ZeroxRunSpritesheet_33
+  - first:
+      213: -8450034683295051657
+    second: ZeroxRunSpritesheet_34
+  - first:
+      213: 5775202341989849024
+    second: ZeroxRunSpritesheet_35
+  - first:
+      213: 9195593687523667835
+    second: ZeroxRunSpritesheet_36
+  - first:
+      213: -289797827000191273
+    second: ZeroxRunSpritesheet_37
+  - first:
+      213: -5587932015987206473
+    second: ZeroxRunSpritesheet_38
+  - first:
+      213: -967821701386389307
+    second: ZeroxRunSpritesheet_39
+  - first:
+      213: -59180127371825831
+    second: ZeroxRunSpritesheet_40
+  - first:
+      213: -183941234721343202
+    second: ZeroxRunSpritesheet_41
+  - first:
+      213: 3624263642281583300
+    second: ZeroxRunSpritesheet_42
+  - first:
+      213: 2312012392417223024
+    second: ZeroxRunSpritesheet_43
+  - first:
+      213: 2169520735862846507
+    second: ZeroxRunSpritesheet_44
+  - first:
+      213: 4145568827127713562
+    second: ZeroxRunSpritesheet_45
+  - first:
+      213: 6761025585542221292
+    second: ZeroxRunSpritesheet_46
+  - first:
+      213: 2670251379847982252
+    second: ZeroxRunSpritesheet_47
+  - first:
+      213: 9181801011789172071
+    second: ZeroxRunSpritesheet_48
+  - first:
+      213: 6242499185280917527
+    second: ZeroxRunSpritesheet_49
+  - first:
+      213: -8260817347437679443
+    second: ZeroxRunSpritesheet_50
+  - first:
+      213: -3597909761979075079
+    second: ZeroxRunSpritesheet_51
+  - first:
+      213: 7264439308022224549
+    second: ZeroxRunSpritesheet_52
+  - first:
+      213: 3085649502921380026
+    second: ZeroxRunSpritesheet_53
+  - first:
+      213: -7301938075677270518
+    second: ZeroxRunSpritesheet_54
+  - first:
+      213: 6034596927110770323
+    second: ZeroxRunSpritesheet_55
+  - first:
+      213: 6133149827238136107
+    second: ZeroxRunSpritesheet_56
+  - first:
+      213: -9042959187856904992
+    second: ZeroxRunSpritesheet_57
+  - first:
+      213: 266775422932000718
+    second: ZeroxRunSpritesheet_58
+  - first:
+      213: 8312654791967442827
+    second: ZeroxRunSpritesheet_59
+  - first:
+      213: 4763881392092542402
+    second: ZeroxRunSpritesheet_60
+  - first:
+      213: -7590112886204486150
+    second: ZeroxRunSpritesheet_61
+  - first:
+      213: -8716781091113480269
+    second: ZeroxRunSpritesheet_62
+  - first:
+      213: -6380318042327178972
+    second: ZeroxRunSpritesheet_63
+  - first:
+      213: 7682018863247252743
+    second: ZeroxRunSpritesheet_64
+  - first:
+      213: 2045730694636213207
+    second: ZeroxRunSpritesheet_65
+  - first:
+      213: 7917051613967182336
+    second: ZeroxRunSpritesheet_66
+  - first:
+      213: -4242721320279005268
+    second: ZeroxRunSpritesheet_67
+  - first:
+      213: -1471751487118451990
+    second: ZeroxRunSpritesheet_68
+  - first:
+      213: 3258764140081559784
+    second: ZeroxRunSpritesheet_69
+  - first:
+      213: 1538504442264060186
+    second: ZeroxRunSpritesheet_70
+  - first:
+      213: -3175423824028279817
+    second: ZeroxRunSpritesheet_71
+  - first:
+      213: 8676127994344202367
+    second: ZeroxRunSpritesheet_72
+  - first:
+      213: 5473724495252915611
+    second: ZeroxRunSpritesheet_73
+  - first:
+      213: 6824800431813947125
+    second: ZeroxRunSpritesheet_74
+  - first:
+      213: -1379105871258773353
+    second: ZeroxRunSpritesheet_75
+  - first:
+      213: 3177514025112989926
+    second: ZeroxRunSpritesheet_76
+  - first:
+      213: -3599077427547024152
+    second: ZeroxRunSpritesheet_77
+  - first:
+      213: -4121118361793391869
+    second: ZeroxRunSpritesheet_78
+  - first:
+      213: 8480679456156667908
+    second: ZeroxRunSpritesheet_79
+  - first:
+      213: 3222919460746126072
+    second: ZeroxRunSpritesheet_80
+  - first:
+      213: -6738205746431625395
+    second: ZeroxRunSpritesheet_81
+  - first:
+      213: -1055387964173257349
+    second: ZeroxRunSpritesheet_82
+  - first:
+      213: -4035387654131824195
+    second: ZeroxRunSpritesheet_83
+  - first:
+      213: -1706917777645713985
+    second: ZeroxRunSpritesheet_84
+  - first:
+      213: -987449678899939145
+    second: ZeroxRunSpritesheet_85
+  - first:
+      213: -6957091800739622772
+    second: ZeroxRunSpritesheet_86
+  - first:
+      213: 8952515046016062110
+    second: ZeroxRunSpritesheet_87
+  - first:
+      213: -4765776707459290400
+    second: ZeroxRunSpritesheet_88
+  - first:
+      213: -1130460165566439110
+    second: ZeroxRunSpritesheet_89
+  - first:
+      213: 3361240109659818764
+    second: ZeroxRunSpritesheet_90
+  - first:
+      213: -4872838969300558124
+    second: ZeroxRunSpritesheet_91
+  - first:
+      213: -5204079512834020979
+    second: ZeroxRunSpritesheet_92
+  - first:
+      213: 8494571941242164266
+    second: ZeroxRunSpritesheet_93
+  - first:
+      213: 1940853643543332508
+    second: ZeroxRunSpritesheet_94
+  - first:
+      213: 8990454209282165985
+    second: ZeroxRunSpritesheet_95
+  - first:
+      213: -6032599464193842791
+    second: ZeroxRunSpritesheet_96
+  - first:
+      213: 4777808119357382546
+    second: ZeroxRunSpritesheet_97
+  - first:
+      213: -3188400921730676796
+    second: ZeroxRunSpritesheet_98
+  - first:
+      213: -4812848703075081501
+    second: ZeroxRunSpritesheet_99
+  - first:
+      213: -1733702876500616778
+    second: ZeroxRunSpritesheet_100
+  - first:
+      213: 1266070822903266268
+    second: ZeroxRunSpritesheet_101
+  - first:
+      213: 8404315703720020050
+    second: ZeroxRunSpritesheet_102
+  - first:
+      213: -4794759426418810530
+    second: ZeroxRunSpritesheet_103
+  - first:
+      213: 6315870714251001560
+    second: ZeroxRunSpritesheet_104
+  - first:
+      213: 5846574008517273437
+    second: ZeroxRunSpritesheet_105
+  - first:
+      213: -4620483714037658536
+    second: ZeroxRunSpritesheet_106
+  - first:
+      213: 1320285113680210001
+    second: ZeroxRunSpritesheet_107
+  - first:
+      213: -5038908403410858626
+    second: ZeroxRunSpritesheet_108
+  - first:
+      213: 6658034611909659830
+    second: ZeroxRunSpritesheet_109
+  - first:
+      213: -3904151685523778711
+    second: ZeroxRunSpritesheet_110
+  - first:
+      213: 630530632124046059
+    second: ZeroxRunSpritesheet_111
+  - first:
+      213: 7838765835786473275
+    second: ZeroxRunSpritesheet_112
+  - first:
+      213: -4419376320131060919
+    second: ZeroxRunSpritesheet_113
+  - first:
+      213: 5018507236743563074
+    second: ZeroxRunSpritesheet_114
+  - first:
+      213: -579874976996515190
+    second: ZeroxRunSpritesheet_115
+  - first:
+      213: 4005166558571879089
+    second: ZeroxRunSpritesheet_116
+  - first:
+      213: -782721564876271465
+    second: ZeroxRunSpritesheet_117
+  - first:
+      213: 6167392175233001821
+    second: ZeroxRunSpritesheet_118
+  - first:
+      213: 8837512834059492683
+    second: ZeroxRunSpritesheet_119
+  - first:
+      213: -8151695574019884075
+    second: ZeroxRunSpritesheet_120
+  - first:
+      213: -2857158594956749338
+    second: ZeroxRunSpritesheet_121
+  - first:
+      213: -8058960452011847864
+    second: ZeroxRunSpritesheet_122
+  - first:
+      213: -1369574905673741675
+    second: ZeroxRunSpritesheet_123
+  - first:
+      213: -6015455893636669763
+    second: ZeroxRunSpritesheet_124
+  - first:
+      213: -8313258060250912502
+    second: ZeroxRunSpritesheet_125
+  - first:
+      213: 2859159361691742692
+    second: ZeroxRunSpritesheet_126
+  - first:
+      213: -7188756180486356961
+    second: ZeroxRunSpritesheet_127
+  - first:
+      213: -5546477831225594671
+    second: ZeroxRunSpritesheet_128
+  - first:
+      213: -5289543878802601830
+    second: ZeroxRunSpritesheet_129
+  - first:
+      213: 319070744602697523
+    second: ZeroxRunSpritesheet_130
+  - first:
+      213: 4248845735292056835
+    second: ZeroxRunSpritesheet_131
+  - first:
+      213: -6792669122768063884
+    second: ZeroxRunSpritesheet_132
+  - first:
+      213: 7954795218724363811
+    second: ZeroxRunSpritesheet_133
+  - first:
+      213: 6855353570069525512
+    second: ZeroxRunSpritesheet_134
+  - first:
+      213: -7327107589627236430
+    second: ZeroxRunSpritesheet_135
+  - first:
+      213: -2291349719827485465
+    second: ZeroxRunSpritesheet_136
+  - first:
+      213: -8939491986191978752
+    second: ZeroxRunSpritesheet_137
+  - first:
+      213: -5296130352912086905
+    second: ZeroxRunSpritesheet_138
+  - first:
+      213: -2232227549077755204
+    second: ZeroxRunSpritesheet_139
+  - first:
+      213: -2662895930583240979
+    second: ZeroxRunSpritesheet_140
+  - first:
+      213: 2775141591717828364
+    second: ZeroxRunSpritesheet_141
+  - first:
+      213: 7163629908313702454
+    second: ZeroxRunSpritesheet_142
+  - first:
+      213: -1540871298603146986
+    second: ZeroxRunSpritesheet_143
+  - first:
+      213: 7663294706630475061
+    second: ZeroxRunSpritesheet_144
+  - first:
+      213: -4543612538806703472
+    second: ZeroxRunSpritesheet_145
+  - first:
+      213: -678655009153400768
+    second: ZeroxRunSpritesheet_146
+  - first:
+      213: -1831758953778128458
+    second: ZeroxRunSpritesheet_147
+  - first:
+      213: 9023759395905569118
+    second: ZeroxRunSpritesheet_148
+  - first:
+      213: -3809564506232113444
+    second: ZeroxRunSpritesheet_149
+  - first:
+      213: 2425841540316907409
+    second: ZeroxRunSpritesheet_150
+  - first:
+      213: 8764087016929937468
+    second: ZeroxRunSpritesheet_151
+  - first:
+      213: 5220057298365470343
+    second: ZeroxRunSpritesheet_152
+  - first:
+      213: 8184531702037424190
+    second: ZeroxRunSpritesheet_153
+  - first:
+      213: 5017861273158970688
+    second: ZeroxRunSpritesheet_154
+  - first:
+      213: -3094922201456703891
+    second: ZeroxRunSpritesheet_155
+  - first:
+      213: -8653750461381852663
+    second: ZeroxRunSpritesheet_156
+  - first:
+      213: -4622333590818544758
+    second: ZeroxRunSpritesheet_157
+  - first:
+      213: 6820961624071869013
+    second: ZeroxRunSpritesheet_158
+  - first:
+      213: -5953014833798013272
+    second: ZeroxRunSpritesheet_159
+  - first:
+      213: 1656023747704411368
+    second: ZeroxRunSpritesheet_160
+  - first:
+      213: -7342536037865526407
+    second: ZeroxRunSpritesheet_161
+  - first:
+      213: -8797380929367686909
+    second: ZeroxRunSpritesheet_162
+  - first:
+      213: -7397199395084707660
+    second: ZeroxRunSpritesheet_163
+  - first:
+      213: -3310093802227680193
+    second: ZeroxRunSpritesheet_164
+  - first:
+      213: 1350792433659251974
+    second: ZeroxRunSpritesheet_165
+  - first:
+      213: 4406168994785227523
+    second: ZeroxRunSpritesheet_166
+  - first:
+      213: 3670517807063069266
+    second: ZeroxRunSpritesheet_167
+  - first:
+      213: 5964766208391763797
+    second: ZeroxRunSpritesheet_168
+  - first:
+      213: 7096840794811766355
+    second: ZeroxRunSpritesheet_169
+  - first:
+      213: -2529101278495210764
+    second: ZeroxRunSpritesheet_170
+  - first:
+      213: 8739705992484929882
+    second: ZeroxRunSpritesheet_171
+  - first:
+      213: -3347540102744650826
+    second: ZeroxRunSpritesheet_172
+  - first:
+      213: -5982218386942658296
+    second: ZeroxRunSpritesheet_173
+  - first:
+      213: 6166366179797461189
+    second: ZeroxRunSpritesheet_174
+  - first:
+      213: 196268001894344933
+    second: ZeroxRunSpritesheet_175
+  - first:
+      213: -3828146875197203417
+    second: ZeroxRunSpritesheet_176
+  - first:
+      213: 1607083424230496582
+    second: ZeroxRunSpritesheet_177
+  - first:
+      213: 6997267049559319499
+    second: ZeroxRunSpritesheet_178
+  - first:
+      213: -5408404056142668909
+    second: ZeroxRunSpritesheet_179
+  - first:
+      213: 1917894421499178133
+    second: ZeroxRunSpritesheet_180
+  - first:
+      213: -6496218528446733924
+    second: ZeroxRunSpritesheet_181
+  - first:
+      213: -6995270947768523709
+    second: ZeroxRunSpritesheet_182
+  - first:
+      213: 2305222855842531415
+    second: ZeroxRunSpritesheet_183
+  - first:
+      213: -5669198899098739776
+    second: ZeroxRunSpritesheet_184
+  - first:
+      213: -397459770408739564
+    second: ZeroxRunSpritesheet_185
+  - first:
+      213: 6067015463672040744
+    second: ZeroxRunSpritesheet_186
+  - first:
+      213: -4503489053633729887
+    second: ZeroxRunSpritesheet_187
+  - first:
+      213: 1279804206628098474
+    second: ZeroxRunSpritesheet_188
+  - first:
+      213: -3683301270045033525
+    second: ZeroxRunSpritesheet_189
+  - first:
+      213: -3153943417063197341
+    second: ZeroxRunSpritesheet_190
+  - first:
+      213: -14426037338900495
+    second: ZeroxRunSpritesheet_191
+  - first:
+      213: -5335470556091983491
+    second: ZeroxRunSpritesheet_192
+  - first:
+      213: 2055422474502690183
+    second: ZeroxRunSpritesheet_193
+  - first:
+      213: -2984563850610316699
+    second: ZeroxRunSpritesheet_194
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 90
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1525
+        width: 6
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72865ad3c74152fc0800000000000000
+      internalID: -3520385009877424089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1525
+        width: 6
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5120de91c354a7bd0800000000000000
+      internalID: -2631714907809316331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1516
+        width: 16
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99979d349b5fb3ab0800000000000000
+      internalID: -5027154382972946023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1524
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a177e34b21733da0800000000000000
+      internalID: -5966300650699001437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1520
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55914ea88e65cee30800000000000000
+      internalID: 4534094481617852757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1517
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4244ecf8a51cb90800000000000000
+      internalID: -7223392753638169382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1517
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffe3f0557cd51030800000000000000
+      internalID: 3464917884758913008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1519
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199f7dc61b14b24e0800000000000000
+      internalID: -2005436978772313711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1520
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668e3807e0797f500800000000000000
+      internalID: 429978377710200934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1520
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00f2c89a1281d560800000000000000
+      internalID: 7336788318706921482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1451
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8684e5c114772db0800000000000000
+      internalID: -4816753656766101873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1452
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2fe6cd1c05316c0800000000000000
+      internalID: -4173903636085148965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1452
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46728617c1afb5750800000000000000
+      internalID: 6294899904249079652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1453
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde76964e744001b0800000000000000
+      internalID: -5692474619855470884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1453
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8caef72b5b098b0800000000000000
+      internalID: -5147414595829577480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1453
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0059eed8bd8d7b0800000000000000
+      internalID: -5199164367159623461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1453
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d923e3bcc8d60570800000000000000
+      internalID: 8432665726000769495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1453
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecca0c8a7ce0228a0800000000000000
+      internalID: -6331481875437015858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1453
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a4159ac25449ab0800000000000000
+      internalID: -5002297227980223847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1389
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47d4b1f899461360800000000000000
+      internalID: 7139975180481517389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1383
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ad2e83292ecec50800000000000000
+      internalID: 6695975863640578568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1382
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ae222a2df9086f0800000000000000
+      internalID: -684371416348169677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1382
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed3f1663bffafcd0800000000000000
+      internalID: -2523423495210189330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1382
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ea2948c869453f0800000000000000
+      internalID: -912939294185574762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1379
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9587687c9578581c0800000000000000
+      internalID: -4502043432817624999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1382
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0567c0aab87187a20800000000000000
+      internalID: 3060221835419088464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1374
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31488756a7f03810800000000000000
+      internalID: 1743165349597561148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1305
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc9a81e3fabb8650800000000000000
+      internalID: 6236283665648360669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1296
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39ef37da0a1c5240800000000000000
+      internalID: 4781725538223909183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1294
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dd25f23979d0cb0800000000000000
+      internalID: -4896090561471914625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1295
+        width: 37
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d9f03952ade9300800000000000000
+      internalID: 260885683349986567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1296
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c250445e56dac5990800000000000000
+      internalID: -7395845834899454676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1297
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144e1d891a9f459e0800000000000000
+      internalID: -1633406292379704255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1297
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b988601e26ec8a90800000000000000
+      internalID: -7310215009610987087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1295
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770d77ac9327bba80800000000000000
+      internalID: -8450034683295051657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1235
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c71f448ee3a52050800000000000000
+      internalID: 5775202341989849024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1235
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f2cab0dbf4d9f70800000000000000
+      internalID: 9195593687523667835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1237
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d639f8696e6afbf0800000000000000
+      internalID: -289797827000191273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1235
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6dc06007da372b0800000000000000
+      internalID: -5587932015987206473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1235
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c833f25a4b9192f0800000000000000
+      internalID: -967821701386389307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1235
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d6d3adcffbd2ff0800000000000000
+      internalID: -59180127371825831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1236
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1933eceb62827df0800000000000000
+      internalID: -183941234721343202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1236
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2ae8a9498fb4230800000000000000
+      internalID: 3624263642281583300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1172
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0716456750be51020800000000000000
+      internalID: 2312012392417223024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1173
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24f2f95d9fab1e10800000000000000
+      internalID: 2169520735862846507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1171
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f41e452e4088930800000000000000
+      internalID: 4145568827127713562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1171
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced4297d2fcf3dd50800000000000000
+      internalID: 6761025585542221292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1171
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cace5dc7b73ae0520800000000000000
+      internalID: 2670251379847982252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1171
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d040a7f5f4c6f70800000000000000
+      internalID: 9181801011789172071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1171
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710a5515fefc1a650800000000000000
+      internalID: 6242499185280917527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1171
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daca793e36eab5d80800000000000000
+      internalID: -8260817347437679443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1102
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5b35f4228a11ec0800000000000000
+      internalID: -3597909761979075079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1101
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a69c0fdf0970d460800000000000000
+      internalID: 7264439308022224549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1101
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab05dfadfdd62da20800000000000000
+      internalID: 3085649502921380026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1101
+        width: 78
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e5b5be10e4aaa90800000000000000
+      internalID: -7301938075677270518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1101
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ee91bbee13fb350800000000000000
+      internalID: 6034596927110770323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1101
+        width: 91
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2907c6e5435d1550800000000000000
+      internalID: 6133149827238136107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1101
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec2f61c784f08280800000000000000
+      internalID: -9042959187856904992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1045
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf9aae65d6c3b300800000000000000
+      internalID: 266775422932000718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1045
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b870bafad7b7c5370800000000000000
+      internalID: 8312654791967442827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1045
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5f4cfc2e4bc1240800000000000000
+      internalID: 4763881392092542402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1045
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdaaac4b808aa690800000000000000
+      internalID: -7590112886204486150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1045
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfc657f7c5c70780800000000000000
+      internalID: -8716781091113480269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1045
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421a21d7b8e8477a0800000000000000
+      internalID: -6380318042327178972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1044
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dd3bd74730c9a60800000000000000
+      internalID: 7682018863247252743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1044
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d397ef5a35e36c10800000000000000
+      internalID: 2045730694636213207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1044
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a62fe1f740fdd60800000000000000
+      internalID: 7917051613967182336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1044
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca72bc72073de15c0800000000000000
+      internalID: -4242721320279005268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 993
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aead6a4f1d9439be0800000000000000
+      internalID: -1471751487118451990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 993
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8b75048b4793d20800000000000000
+      internalID: 3258764140081559784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 993
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11828e83add95510800000000000000
+      internalID: 1538504442264060186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 994
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb5b7d2bd0aee3d0800000000000000
+      internalID: -3175423824028279817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1007
+        width: 53
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7065b8517cc76870800000000000000
+      internalID: 8676127994344202367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 938
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9587e96d6396fb40800000000000000
+      internalID: 5473724495252915611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 938
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fee33955df86be50800000000000000
+      internalID: 6824800431813947125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 938
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79817f3548e6cdce0800000000000000
+      internalID: -1379105871258773353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 938
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e07eafab2cc81c20800000000000000
+      internalID: 3177514025112989926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 938
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4deebf5228d0ec0800000000000000
+      internalID: -3599077427547024152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 937
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30317ff3fa8dec6c0800000000000000
+      internalID: -4121118361793391869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 937
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400db26680d61b570800000000000000
+      internalID: 8480679456156667908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 865
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2677d7c2c1abc20800000000000000
+      internalID: 3222919460746126072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 864
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47727cf2951d72a0800000000000000
+      internalID: -6738205746431625395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 864
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75fa3ffc328a51f0800000000000000
+      internalID: -1055387964173257349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 864
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9c9781f4c6ff7c0800000000000000
+      internalID: -4035387654131824195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 856
+        width: 103
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5c0aa235fcf48e0800000000000000
+      internalID: -1706917777645713985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 855
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8789fafbfdb42f0800000000000000
+      internalID: -987449678899939145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 788
+        width: 104
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80d1231ed1737f90800000000000000
+      internalID: -6957091800739622772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 788
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92902c7009bd3c70800000000000000
+      internalID: 8952515046016062110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 788
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaee01b55f8cddb0800000000000000
+      internalID: -4765776707459290400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 792
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31eea6087ccf40f0800000000000000
+      internalID: -1130460165566439110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 795
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b8115321685ae20800000000000000
+      internalID: 3361240109659818764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 796
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ded82b56c2306cb0800000000000000
+      internalID: -4872838969300558124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 796
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89e3a6614567c7b0800000000000000
+      internalID: -5204079512834020979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 796
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a245db4ac28c2e570800000000000000
+      internalID: 8494571941242164266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 707
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c964c601b1c4fea10800000000000000
+      internalID: 1940853643543332508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 705
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eccda9487284cc70800000000000000
+      internalID: 8990454209282165985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 706
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991a388dfb6e74ca0800000000000000
+      internalID: -6032599464193842791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 700
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f164fab2f2e4240800000000000000
+      internalID: 4777808119357382546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 699
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c707ba214680c3d0800000000000000
+      internalID: -3188400921730676796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 700
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2a287aa93553db0800000000000000
+      internalID: -4812848703075081501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 699
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b99b1c5b66a0f7e0800000000000000
+      internalID: -1733702876500616778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 697
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbb2ab94bcf19110800000000000000
+      internalID: 1266070822903266268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 696
+        width: 36
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2580874ca9022a470800000000000000
+      internalID: 8404315703720020050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 630
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51e9d494b7957db0800000000000000
+      internalID: -4794759426418810530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 630
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de3932a3fa76a750800000000000000
+      internalID: 6315870714251001560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 630
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5724b29514332150800000000000000
+      internalID: 5846574008517273437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 630
+        width: 89
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cce4eda8eb0efb0800000000000000
+      internalID: -4620483714037658536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 623
+        width: 101
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1582523d058925210800000000000000
+      internalID: 1320285113680210001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 630
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d07fe1183321ab0800000000000000
+      internalID: -5038908403410858626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 630
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc81292437166c50800000000000000
+      internalID: 6658034611909659830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 630
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963dc132abaa1d9c0800000000000000
+      internalID: -3904151685523778711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 630
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea91cbe44810c800800000000000000
+      internalID: 630530632124046059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 570
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f458ffef3e8cc60800000000000000
+      internalID: 7838765835786473275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 570
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ba0d5d6a83ba2c0800000000000000
+      internalID: -4419376320131060919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 568
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247c3dc1eb155a540800000000000000
+      internalID: 5018507236743563074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 569
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a822cfdd7ced3f7f0800000000000000
+      internalID: -579874976996515190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 568
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba53f5c3c5359730800000000000000
+      internalID: 4005166558571879089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 569
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790138f32e63325f0800000000000000
+      internalID: -782721564876271465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 569
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d596943d18af69550800000000000000
+      internalID: 6167392175233001821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 569
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d5214791725aa70800000000000000
+      internalID: 8837512834059492683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 570
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbbb61a01c5fde80800000000000000
+      internalID: -8151695574019884075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 568
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e516a055655958d0800000000000000
+      internalID: -2857158594956749338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 568
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f89e6ca22d82090800000000000000
+      internalID: -8058960452011847864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 494
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a070e21ea4efce0800000000000000
+      internalID: -1369574905673741675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 497
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe91c96cbec48ca0800000000000000
+      internalID: -6015455893636669763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 495
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a096798f6df51ac80800000000000000
+      internalID: -8313258060250912502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 492
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e17edd7a46cda720800000000000000
+      internalID: 2859159361691742692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 492
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10873d67586c3c90800000000000000
+      internalID: -7188756180486356961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 498
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc283b8cc3f603b0800000000000000
+      internalID: -5546477831225594671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 505
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9801201ed3c796b0800000000000000
+      internalID: -5289543878802601830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 505
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f5346d6219d6400800000000000000
+      internalID: 319070744602697523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 419
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30534855faee6fa30800000000000000
+      internalID: 4248845735292056835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 418
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47235a40c679bb1a0800000000000000
+      internalID: -6792669122768063884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 419
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e9a09ea1c156e60800000000000000
+      internalID: 7954795218724363811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 420
+        width: 91
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80433b130cb132f50800000000000000
+      internalID: 6855353570069525512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 423
+        width: 91
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf2339c772e05a90800000000000000
+      internalID: -7327107589627236430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 422
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eced75e19d7330e0800000000000000
+      internalID: -2291349719827485465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 424
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f639ae66b80f380800000000000000
+      internalID: -8939491986191978752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 422
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788c28e018d5086b0800000000000000
+      internalID: -5296130352912086905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 418
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba2167fed88501e0800000000000000
+      internalID: -2232227549077755204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 327
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deea0cf724e7b0bd0800000000000000
+      internalID: -2662895930583240979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 327
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07d0c70398438620800000000000000
+      internalID: 2775141591717828364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 329
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630076372735a6360800000000000000
+      internalID: 7163629908313702454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 333
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6112a22c7b9bd9ae0800000000000000
+      internalID: -1540871298603146986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 326
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d37dd0fed795a60800000000000000
+      internalID: 7663294706630475061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 326
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a6a631878d1f0c0800000000000000
+      internalID: -4543612538806703472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 325
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0404f566ddee496f0800000000000000
+      internalID: -678655009153400768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 328
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9d9e5cfe84496e0800000000000000
+      internalID: -1831758953778128458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 333
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e518b835c55da3d70800000000000000
+      internalID: 9023759395905569118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 328
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd63919f345b12bc0800000000000000
+      internalID: -3809564506232113444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 331
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197c9fb37025aa120800000000000000
+      internalID: 2425841540316907409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 345
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38c8b035ba40a970800000000000000
+      internalID: 8764087016929937468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 357
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7865240b47e517840800000000000000
+      internalID: 5220057298365470343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 360
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e382dd0383c459170800000000000000
+      internalID: 8184531702037424190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 241
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d64defd3603a540800000000000000
+      internalID: 5017861273158970688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 244
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6604b6c7a0ac05d0800000000000000
+      internalID: -3094922201456703891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 244
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902467e0ec3b7e780800000000000000
+      internalID: -8653750461381852663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 242
+        width: 87
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83a7edd61c2adfb0800000000000000
+      internalID: -4622333590818544758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 245
+        width: 91
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5521065457ce8ae50800000000000000
+      internalID: 6820961624071869013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_159
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 247
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae96d09c84a26da0800000000000000
+      internalID: -5953014833798013272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_160
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 244
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4588513d06bf610800000000000000
+      internalID: 1656023747704411368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_161
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 245
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b658040621a1a90800000000000000
+      internalID: -7342536037865526407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_162
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 243
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3014e3fb7ac69e580800000000000000
+      internalID: -8797380929367686909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_163
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 179
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8dd3b975ed75990800000000000000
+      internalID: -7397199395084707660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_164
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 179
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c3ff8793f2012d0800000000000000
+      internalID: -3310093802227680193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_165
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 179
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d8b85cf8afeb210800000000000000
+      internalID: 1350792433659251974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_166
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 175
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303738a1b5bd52d30800000000000000
+      internalID: 4406168994785227523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_167
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 180
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2527dbf8f7c40f230800000000000000
+      internalID: 3670517807063069266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_168
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 180
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557d17b834b17c250800000000000000
+      internalID: 5964766208391763797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_169
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 180
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356914a2a1b0d7260800000000000000
+      internalID: 7096840794811766355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_170
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 180
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f28e4679c3d6ecd0800000000000000
+      internalID: -2529101278495210764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_171
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 112
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51ca639b4ca94970800000000000000
+      internalID: 8739705992484929882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_172
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 110
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbc78833062b81d0800000000000000
+      internalID: -3347540102744650826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_173
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 167
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809f87d7214eafca0800000000000000
+      internalID: -5982218386942658296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_174
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 114
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c86fc5ae55539550800000000000000
+      internalID: 6166366179797461189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_175
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 116
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e820b535b849b200800000000000000
+      internalID: 196268001894344933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_176
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 116
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c59db03b0bfdac0800000000000000
+      internalID: -3828146875197203417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_177
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 116
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6495da11cd18d4610800000000000000
+      internalID: 1607083424230496582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_178
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 43
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc36787fe494b1160800000000000000
+      internalID: 6997267049559319499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_179
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 43
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b95d77a2d71f4b0800000000000000
+      internalID: -5408404056142668909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_180
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 43
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c692e90dabd9a10800000000000000
+      internalID: 1917894421499178133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_181
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 43
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c912f94baabc8d5a0800000000000000
+      internalID: -6496218528446733924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_182
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 43
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344a5a2b22ecbee90800000000000000
+      internalID: -6995270947768523709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_183
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 43
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7580b9a49fbcdff10800000000000000
+      internalID: 2305222855842531415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_184
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 43
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb1f2253a5f251b0800000000000000
+      internalID: -5669198899098739776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_185
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 43
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d5744d170fb7af0800000000000000
+      internalID: -397459770408739564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_186
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 41
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d49f67b6e523450800000000000000
+      internalID: 6067015463672040744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_187
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 40
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa2d44f0946081c0800000000000000
+      internalID: -4503489053633729887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_188
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 39
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa15e1e2527c2c110800000000000000
+      internalID: 1279804206628098474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_189
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 39
+        width: 52
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb7836820942ecc0800000000000000
+      internalID: -3683301270045033525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_190
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 44
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36534482c21fa34d0800000000000000
+      internalID: -3153943417063197341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_191
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 36
+        width: 6
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7f5e0789fbccff0800000000000000
+      internalID: -14426037338900495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_192
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 36
+        width: 6
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79d49a3cc994f5b0800000000000000
+      internalID: -5335470556091983491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_193
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 16
+        width: 156
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7855618b9d3568c10800000000000000
+      internalID: 2055422474502690183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZeroxRunSpritesheet_194
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3
+        width: 123
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a66e2adf2b496d0800000000000000
+      internalID: -2984563850610316699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
